@@ -1,9 +1,8 @@
 <div align="center">
 
-<!-- Animated name banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=120&section=header&text=Monisha%20Bharadwaj%20M%20H&fontSize=36&fontColor=c9d1d9&fontAlignY=65&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=90&section=header&text=Monisha%20Bharadwaj&fontSize=28&fontColor=c9d1d9&fontAlignY=60&animation=fadeIn" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=18&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=AI+Systems+Engineer+%7C+Deep+Learning+%7C+Backend+Architecture;Turning+Data+into+Decisions+%7C+Models+into+Products;Where+Intelligence+Meets+Infrastructure" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=16&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=AI+Systems+Engineer+%7C+Deep+Learning+%7C+Backend+Architecture;Turning+Data+into+Decisions;Intelligence+Meets+Infrastructure" />
 
 <br/>
 
