@@ -19,7 +19,7 @@
 
 ## Profile
 
-B.E. in Artificial Intelligence and Machine Learning — CGPA 8.39 — Jyothy Institute of Technology, VTU.
+B.E. in Artificial Intelligence and Machine Learning holding CGPA of  8.39 in Jyothy Institute of Technology, VTU.
 
 I design and build intelligent systems where applied research meets production engineering. My work spans deep  learning, scalable backend APIs, and cloud-native infrastructure. Experienced in shipping real-world backend systems with authentication, data handling, and API stability.
 
