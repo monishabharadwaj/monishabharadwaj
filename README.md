@@ -183,11 +183,3 @@ Intelligent document analysis system leveraging NLP techniques for automated ins
 > Full badge collection on [Credly](https://www.credly.com/users/monisha-bharadwaj.f6c20f12)
 
 ---
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=80&section=footer" width="100%" />
-
-*Engineering intelligent systems — from research to production.*
-
-</div>
