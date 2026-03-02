@@ -40,18 +40,19 @@ Data & BI                  Power BI · Tableau · Pandas · NumPy · Scikit-lear
 ## Tech Stack
 
 <p align="center">
-  <b>AI / ML</b><br>
-  <img src="https://skillicons.dev/icons?i=python,r" />
+  <img src="https://skillicons.dev/icons?i=python,r,js,nodejs,express,mongodb,mysql,gcp,aws,git,github" />
 </p>
 
 <p align="center">
-  <b>Backend</b><br>
-  <img src="https://skillicons.dev/icons?i=nodejs,express" />
-</p>
-
-<p align="center">
-  <b>Database & Cloud</b><br>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,gcp,aws,git" />
+  <img src="https://img.shields.io/badge/Pandas-0d1117?style=flat-square&logo=pandas&logoColor=150458" />
+  <img src="https://img.shields.io/badge/NumPy-0d1117?style=flat-square&logo=numpy&logoColor=013243" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-0d1117?style=flat-square&logo=scikit-learn&logoColor=F7931E" />
+  <img src="https://img.shields.io/badge/REST_API-0d1117?style=flat-square" />
+  <img src="https://img.shields.io/badge/JWT-0d1117?style=flat-square&logo=jsonwebtokens&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power_BI-0d1117?style=flat-square&logo=powerbi&logoColor=F2C811" />
+  <img src="https://img.shields.io/badge/Tableau-0d1117?style=flat-square&logo=tableau&logoColor=E97627" />
+  <img src="https://img.shields.io/badge/Unix-0d1117?style=flat-square&logo=linux&logoColor=FCC624" />
+  <img src="https://img.shields.io/badge/Windows-0d1117?style=flat-square&logo=windows&logoColor=0078D6" />
 </p>
 
 ----
