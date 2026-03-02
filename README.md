@@ -40,33 +40,18 @@ Data & BI                  Power BI · Tableau · Pandas · NumPy · Scikit-lear
 ## Tech Stack
 
 <p align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,r,nodejs,express,mongodb,mysql,gcp,aws,git,github" />
+</p>
 
-<b>Languages</b><br>
-<img src="https://skillicons.dev/icons?i=python,js,r" />
-
-<br><br>
-
-<b>AI / ML</b><br>
-<img src="https://skillicons.dev/icons?i=python" />
-<img src="https://img.shields.io/badge/Pandas-0d1117?style=flat-square&logo=pandas&logoColor=150458" />
-<img src="https://img.shields.io/badge/NumPy-0d1117?style=flat-square&logo=numpy&logoColor=013243" />
-<img src="https://img.shields.io/badge/Scikit--Learn-0d1117?style=flat-square&logo=scikit-learn&logoColor=F7931E" />
-
-<br><br>
-
-<b>Backend & Databases</b><br>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
-<img src="https://img.shields.io/badge/REST_API-0d1117?style=flat-square" />
-<img src="https://img.shields.io/badge/JWT-0d1117?style=flat-square&logo=jsonwebtokens&logoColor=white" />
-
-<br><br>
-
-<b>Cloud & Tools</b><br>
-<img src="https://skillicons.dev/icons?i=gcp,aws,git,github" />
-<img src="https://img.shields.io/badge/Postman-0d1117?style=flat-square&logo=postman&logoColor=FF6C37" />
-<img src="https://img.shields.io/badge/Power_BI-0d1117?style=flat-square&logo=powerbi&logoColor=F2C811" />
-<img src="https://img.shields.io/badge/Tableau-0d1117?style=flat-square&logo=tableau&logoColor=E97627" />
-
+<p align="center">
+  <img src="https://img.shields.io/badge/Pandas-0d1117?style=flat-square&logo=pandas&logoColor=150458" />
+  <img src="https://img.shields.io/badge/NumPy-0d1117?style=flat-square&logo=numpy&logoColor=013243" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-0d1117?style=flat-square&logo=scikit-learn&logoColor=F7931E" />
+  <img src="https://img.shields.io/badge/REST_API-0d1117?style=flat-square" />
+  <img src="https://img.shields.io/badge/JWT-0d1117?style=flat-square&logo=jsonwebtokens&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-0d1117?style=flat-square&logo=postman&logoColor=FF6C37" />
+  <img src="https://img.shields.io/badge/Power_BI-0d1117?style=flat-square&logo=powerbi&logoColor=F2C811" />
+  <img src="https://img.shields.io/badge/Tableau-0d1117?style=flat-square&logo=tableau&logoColor=E97627" />
 </p>
 ----
 
