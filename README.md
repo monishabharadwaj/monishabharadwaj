@@ -36,51 +36,25 @@ Data Infrastructure        MongoDB · MySQL · NoSQL schema design
 Cloud Foundations          GCP (compute, storage, networking) · AWS (IAM, EC2, S3)
 Data & BI                  Power BI · Tableau · Pandas · NumPy · Scikit-learn
 ```
-
 ---
-
 ## Tech Stack
 
-<div align="center">
+<p align="center">
+  <b>AI / ML</b><br>
+  <img src="https://skillicons.dev/icons?i=python,r" />
+</p>
 
-**Languages**
+<p align="center">
+  <b>Backend</b><br>
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
 
-![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=3776AB)
-![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![R](https://img.shields.io/badge/R-0d1117?style=for-the-badge&logo=r&logoColor=276DC3)
+<p align="center">
+  <b>Database & Cloud</b><br>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,gcp,aws,git" />
+</p>
 
-**AI / ML**
-
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-0d1117?style=for-the-badge&logo=scikitlearn&logoColor=F7931E)
-![NumPy](https://img.shields.io/badge/NumPy-0d1117?style=for-the-badge&logo=numpy&logoColor=013243)
-![Pandas](https://img.shields.io/badge/Pandas-0d1117?style=for-the-badge&logo=pandas&logoColor=150458)
-
-**Backend**
-
-![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=nodedotjs&logoColor=339933)
-![Express](https://img.shields.io/badge/Express.js-0d1117?style=for-the-badge&logo=express&logoColor=ffffff)
-![JWT](https://img.shields.io/badge/JWT-0d1117?style=for-the-badge&logo=jsonwebtokens&logoColor=ffffff)
-![Postman](https://img.shields.io/badge/Postman-0d1117?style=for-the-badge&logo=postman&logoColor=FF6C37)
-
-**Databases**
-
-![MongoDB](https://img.shields.io/badge/MongoDB-0d1117?style=for-the-badge&logo=mongodb&logoColor=47A248)
-![MySQL](https://img.shields.io/badge/MySQL-0d1117?style=for-the-badge&logo=mysql&logoColor=4479A1)
-
-**Cloud & DevOps**
-
-![GCP](https://img.shields.io/badge/Google_Cloud-0d1117?style=for-the-badge&logo=googlecloud&logoColor=4285F4)
-![AWS](https://img.shields.io/badge/AWS-0d1117?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900)
-![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=F05032)
-
-**Data Visualization**
-
-![Power BI](https://img.shields.io/badge/Power_BI-0d1117?style=for-the-badge&logo=powerbi&logoColor=F2C811)
-![Tableau](https://img.shields.io/badge/Tableau-0d1117?style=for-the-badge&logo=tableau&logoColor=E97627)
-
-</div>
-
----
+----
 
 ## Selected Work
 
